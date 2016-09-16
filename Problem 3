@@ -1,0 +1,27 @@
+Problem 3
+
+1.	Changes I make for the problem 1:
+  a.	I change SelectedCat= 7 to SelectedCat = ’Snowball II’
+  b.	Snowball II didn’t have a food in “treats” list so I add ‘Fish’ to the list
+  c.	Last error was on the “print” –command. I change treats(SelectedCat) to mode treats(CatIndex).
+  
+  
+2.	The most difficult thing was to upload the file to the GitHub. 
+    Overall the creating code was the easiest part of the problem. 
+    I followed the lesson’s instructions carefully so they were very helpful.
+    
+    
+3.	I like: 
+    that I learn something new. I don’t have any experience in coding so 
+    I was very excited in problem 2, when the code started to work. 
+    I didn’t like: 
+    that I chose to make exercises in my own old computer, which 
+    is very slow, so I did exercises longer than I expected.
+    I would change: 
+    I don’t make up anything specific, only one little unimportant thing. 
+    I apparently learn when I do things on my own. I started to work with 
+    Problem 1 but I didn’t understand anything. After that I try to do the 
+    problem 2 and it was very easy and straightforward. After that I went back 
+    to Problem 1 and understand it more easily. So I would change the order 
+    of the exercises (but I think that is just easier for me doing things this way 
+    and there isn’t any rule that you should do exercises in the correct order). 
